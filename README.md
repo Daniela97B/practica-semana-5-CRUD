@@ -9,7 +9,7 @@ Fecha de nacimiento
 Se implemente su interfaz con angular. La base de datos es relacional MySql con xampp.
 Implmentacion de borrado logico y fisico.
 
-AVISO : La interfaz web esta 
+AVISO : La interfaz web  se encuentra en otro repositorio, encuentrala aqui : https://github.com/Daniela97B/agenda-contactos-interfaz
 
 
 
